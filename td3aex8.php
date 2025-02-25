@@ -1,10 +1,14 @@
 <?php
+
 $valeur = 9;
-echo $valeur
+echo $valeur;
+
 $puissance = pow($valeur, 2);
-echo $puissance
+echo $puissance;
+
 $valeur_absolue = abs($valeur);
-echo $valeur_absolue
+echo $valeur_absolue;
+
 $racine_carree = sqrt($valeur_absolue); 
-echo $racine_carree
+echo $racine_carreel;
 ?>
