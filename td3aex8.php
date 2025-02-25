@@ -10,5 +10,5 @@ $valeur_absolue = abs($valeur);
 echo "$valeur_absolue <br>";
 
 $racine_carree = sqrt($valeur_absolue); 
-echo "$racine_carreel <br>";
+echo "$racine_carree <br>";
 ?>
