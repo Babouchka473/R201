@@ -6,7 +6,7 @@ $tableau = array(
     "justin" => "ptitpeu"
 );
 
-$element = "alex";
+$element = "bonbeur";
 
 $cle_trouvee = array_search($element, $tableau);
 
